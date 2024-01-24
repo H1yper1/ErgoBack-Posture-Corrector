@@ -1,2 +1,3 @@
-"# decentralized-app"  git init git add README.md
-"# ErgoBack-Posture-Corrector" 
+Ergo Back Posture Corrector Code
+Earl Of March Computer Engineering (TEJ4M)
+Created by: Huzaifa Arshad
